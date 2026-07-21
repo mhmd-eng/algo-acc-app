@@ -1,0 +1,12 @@
+{
+  "name": "ALGO-ACC — Lebanese AI Accounting",
+  "short_name": "ALGO-ACC",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1017",
+  "theme_color": "#0c1017",
+  "description": "AI-native accounting for Lebanese SMEs — dual-currency ledger, VAT, payroll, offline-first.",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
